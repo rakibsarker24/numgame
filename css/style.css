@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 450px;
+    margin: 0 auto;
+}
+
+.player1{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: rgb(24, 24, 24);
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+.live{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: rgb(95, 95, 95);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.play1 .inp1{
+    width: 200px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 1px solid rgb(6, 182, 182);
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    margin-right: 25px;
+}
+.play1 .btn1{
+    width: 80px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    font-weight: 500;
+    border: 1px solid rgb(6, 182, 182);
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    margin-right: 25px;
+}
+
+
+.play2 .inp2{
+    width: 200px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 1px solid rgb(6, 182, 182);
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    margin-right: 25px;
+}
+.play2 .btn2{
+    width: 80px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    font-weight: 500;
+    border: 1px solid rgb(6, 182, 182);
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    margin-right: 25px;
+}
+
+
+
+
+
+
+.play1{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.play2{
+    text-align: center;
+    margin-bottom: 50px;
+    display: none;
+}
+
+.error1{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: rgb(231, 8, 8);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.error2{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: rgb(231, 8, 8);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.error3{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: rgb(231, 8, 8);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.success{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: green;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
